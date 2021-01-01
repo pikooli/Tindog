@@ -4,7 +4,11 @@ A training website for design, it use bootstrap,html and css.
 
 
 Desktop version <br/>
-<img src="ressource/desktop.gif" align="center" width="300" height="250" />
+<p align="center">
+  <img src="ressource/desktop.gif" width="300" height="250" />
+</p>
 
 Mobile version<br/>
-<img src="ressource/mobile-size.gif" align="center" width="150" height="300" />
+<p align="center">
+  <img src="ressource/mobile-size.gif"  width="150" height="300" />
+</p>
