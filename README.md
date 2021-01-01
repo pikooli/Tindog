@@ -1,10 +1,10 @@
 <h1 align="center">TinDog Starting </h1>
 
 A training website for design, it use bootstrap,html and css.
-<img src="ressource/desktop.gif" width="40" height="40" />
+
 
 Desktop version
-![](ressource/desktop.gif)
+<img src="ressource/desktop.gif" width="250" height="250" />
 
 Mobile version
-![](ressource/mobile-size.gif =250x250)
+<img src="ressource/mobile-size.gif" width="250" height="250" />
