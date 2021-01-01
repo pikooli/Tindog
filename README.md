@@ -7,4 +7,4 @@ Desktop version
 <img src="ressource/desktop.gif" width="300" height="250" />
 
 Mobile version
-<img src="ressource/mobile-size.gif" width="250" height="360" />
+<img src="ressource/mobile-size.gif" width="150" height="300" />
