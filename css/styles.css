@@ -15,7 +15,7 @@ body {
 /* Nav */
 
 nav {
-  margin: 0 0 5%;
+  margin: 0 0 5% 0;
 }
 
 .navbar-brand {
@@ -48,7 +48,7 @@ nav {
 }
 
 .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 0% 15% 7%;
 }
 
 .dog-img-container {
@@ -70,6 +70,15 @@ nav {
   .dog-img {
     position: static;
     transform: rotate(0);
+  }
+  #title_text {
+    font-size: 3rem;
+  }
+  .container-fluid {
+    padding: 0% 5%;
+  }
+  .download-btn {
+    margin: 20px 0;
   }
 }
 
@@ -129,9 +138,9 @@ nav {
 }
 
 .testimonial-image {
-  width: 10%;
+  width: 150px;
   border-radius: 100%;
-  margin: 50px 20px 0 20px;
+  margin: 50px 20px 20px 20px;
 }
 
 /* Press */
@@ -142,14 +151,14 @@ nav {
 }
 
 #press > img {
-  width: 15%;
+  width: 150px;
   margin: 20px 20px 50px;
 }
 
 /* Pricing */
 
 #pricing {
-  padding: 100px;
+  padding: 20px;
 }
 
 .princing-column {
