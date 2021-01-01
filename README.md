@@ -3,7 +3,7 @@
 A training website for design, it use bootstrap,html and css.
 
 Desktop version
-![](ressource/desktop.gif)
+![](ressource/desktop.gif =250x250)
 
 Mobile version
-![](ressource/mobile-size.gif)
+![](ressource/mobile-size.gif =250x250)
